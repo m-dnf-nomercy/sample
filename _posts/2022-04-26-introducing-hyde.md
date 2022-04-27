@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 던파 모바일 노머시 길드 공지용 PAGE
+title: about
 ---
 던파 모바일 노머시 길드 공지용 페이지. 길컨 관리용으로 개설하였음.
 
